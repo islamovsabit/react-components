@@ -1,7 +1,7 @@
 # React Components
 
 ### Components number 1
-```
+```javascript
 const [Scrolled, setScrolled] = useState(false);
     useEffect(() => {
         const handleScroll = () => {
@@ -19,7 +19,7 @@ const [Scrolled, setScrolled] = useState(false);
 ```
 
 ### Components number 2
-```
+```javascript
 const [scrollY, setScrollY] = useState(0);
 
 useEffect(() => {
